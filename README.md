@@ -2,7 +2,7 @@
 Developed by [Abra](https://github.com/Aegeansword "Abra")
 # offline.speech2text.cpp
 This code reads the linear symbol sequence from the compact lattice, converts each symbol to a word using the symbol table, and concatenates the words into a single string. It then prints the string to the console.
-### how can i install needed repos?
+### how can i install required repos?
 To install Kaldi and its dependencies, you will need to follow these steps:
 Install the required dependencies. Kaldi requires several libraries and tools to be installed on your system. You can find a list of the requiredependencies in the Kaldi documentation:<br>
 **LINK:** https://kaldi-asr.org/doc/install.html#required-libraries<br><br>
